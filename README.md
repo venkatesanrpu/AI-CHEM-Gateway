@@ -1,3 +1,5 @@
-# ChemistryExamGuide
+# Chemistry Exam Guide
 
-Information will be added soond
+## A comprehensive Virtual Tutor for your examination needs.
+
+### More information about usage will be added soon
