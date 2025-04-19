@@ -4,4 +4,4 @@
 
 ### More information about usage will be added soon
 
-1. [Organic Stereochemistry and Reaction](lesson1.md)
+1. [Organic Stereochemistry and Reaction](lesson1)
