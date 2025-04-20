@@ -1,8 +1,8 @@
 > 1: Heterocyclic Nomenclature
 > 2: Structures and Spectroscopic Properties of Aromatic Heterocycles
 +  Carbocyclic Aromatic Systems
- +  Structures of Benzene and Naphthalene
- +  Aromatic Resonance Energy
+ 1.  Structures of Benzene and Naphthalene
+ 2.  Aromatic Resonance Energy
 +  Structure of Six-Membered Heteroaromatic Systems
  +  Structure of Pyridine
  +  Structure of Diazines
