@@ -1,6 +1,6 @@
-> ##: Heterocyclic Nomenclature
+> Heterocyclic Nomenclature
 
-> ##: Structures and Spectroscopic Properties of Aromatic Heterocycles
+> Structures and Spectroscopic Properties of Aromatic Heterocycles
 1.  Carbocyclic Aromatic Systems
  +.  Structures of Benzene and Naphthalene
  +.  Aromatic Resonance Energy
