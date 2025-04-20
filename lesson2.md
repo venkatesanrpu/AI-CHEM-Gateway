@@ -1,5 +1,6 @@
 > Heterocyclic Nomenclature
 
+
 > Structures and Spectroscopic Properties of Aromatic Heterocycles
 1.  Carbocyclic Aromatic Systems
  +  Structures of Benzene and Naphthalene
@@ -21,25 +22,27 @@
  +  Ultraviolet/Visible (Electronic) Spectroscopy
  +  Nuclear Magnetic Resonance (NMR) Spectroscopy
 
-> 3: Substitutions of Aromatic Heterocycles
-+  Electrophilic Addition at Nitrogen
-+  Electrophilic Substitution at Carbon
+
+> Substitutions of Aromatic Heterocycles
+1.  Electrophilic Addition at Nitrogen
+2.  Electrophilic Substitution at Carbon
  +  Aromatic Electrophilic Substitution: Mechanism
  +  Six-Membered Heterocycles
  +  Five-Membered Heterocycles
-+  Nucleophilic Substitution at Carbon
+3.  Nucleophilic Substitution at Carbon
  +  Aromatic Nucleophilic Substitution: Mechanism
  +  Six-Membered Heterocycles
  +  Vicarious Nucleophilic Substitution (VNS Substitution)
-+  Radical Substitution at Carbon
+4.  Radical Substitution at Carbon
  +  Reactions of Heterocycles with Nucleophilic Radicals
  +  Reactions with Electrophilic Radicals
-+  Deprotonation of N-Hydrogen
+5.  Deprotonation of N-Hydrogen
 +  Oxidation and Reduction of Heterocyclic Rings
 +  ortho-Quinodimethanes in Heterocyclic Compound Synthesis
 
-> 4: Organometallic Heterocyclic Chemistry
-+  Preparation and Reactions of Organometallic Compounds
+
+> Organometallic Heterocyclic Chemistry
+1.  Preparation and Reactions of Organometallic Compounds
  +  Lithium
  +  Magnesium
  +  Zinc
@@ -49,7 +52,7 @@
  +  Mercury
  +  Palladium
  +  Side-Chain Metallation (‘Lateral Metallation’)
-+  Transition Metal-Catalysed Reactions
+2.  Transition Metal-Catalysed Reactions
  +  Basic Palladium Processes
  +  Catalysts
  +  The Electrophilic Partner; The Halides/Leaving Groups
@@ -59,101 +62,102 @@
  +  The Ring Systems in Cross-Coupling Reactions
  +  Organometallic Selectivity
  +  Direct C–H Arylation
- + 0 N-Arylation
- + 1 Heck Reactions
- + 2 Carbonylation Reactions
+ + N-Arylation
+ + Heck Reactions
+ + Carbonylation Reactions
 
-> 5: Methods in Heterocyclic Chemistry
-+  Solid-Phase Reactions and Related Methods
+
+> Methods in Heterocyclic Chemistry
+1.  Solid-Phase Reactions and Related Methods
  +  Solid-Phase Reactions
  +  Solid-Supported Reagents and Scavengers
  +  Solid-Phase Extraction (SPE)
  +  Soluble Polymer-Supported Reactions
  +  Phase Tags
-+  Microwave Heating
+2.  Microwave Heating
 +  Flow Reactors
 +  Hazards: Explosions
 
-> 6: Ring Synthesis of Aromatic Heterocycles
-+  Reaction Types Most Frequently Used in Heterocyclic Ring Synthesis
-+  Typical Reactant Combinations
+> Ring Synthesis of Aromatic Heterocycles
+1.  Reaction Types Most Frequently Used in Heterocyclic Ring Synthesis
+2.  Typical Reactant Combinations
  +  Typical Ring Synthesis of a Pyrrole Involving Only C–Heteroatom Bond Formation
  +  Typical Ring Synthesis of a Pyridine Involving Only C–Heteroatom Bond Formation
  +  Typical Ring Syntheses Involving C–Heteroatom C–C Bond Formations
-+  Electrocyclic Processes in Heterocyclic Ring Synthesis
+3.  Electrocyclic Processes in Heterocyclic Ring Synthesis
 +  Nitrenes in Heterocyclic Ring Synthesis
 +  Palladium Catalysis in the Synthesis of Benzo-Fused Heterocycles
 
-> 7: Typical Reactivity of Pyridines, Quinolines and Isoquinolines
+> Typical Reactivity of Pyridines, Quinolines and Isoquinolines
 
-> 8: Pyridines: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> Pyridines: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Addition to Nitrogen
  +  Substitution at Carbon
-+  Reactions with Oxidising Agents
-+  Reactions with Nucleophilic Reagents
+2.  Reactions with Oxidising Agents
+3.  Reactions with Nucleophilic Reagents
  +  Nucleophilic Substitution with ‘Hydride’ Transfer
  +  Nucleophilic Substitution with Displacement of Good Leaving Groups
-+  Metallation and Reactions of C-Metallated-Pyridines
+4.  Metallation and Reactions of C-Metallated-Pyridines
  +  Direct Ring C–H Metallation
  +  Metal–Halogen Exchange
-+  Reactions with Radicals; Reactions of Pyridyl Radicals
+5.  Reactions with Radicals; Reactions of Pyridyl Radicals
  +  Halogenation
  +  Carbon Radicals
  +  Dimerisation
  +  Pyridinyl Radicals
-+  Reactions with Reducing Agents
-+  Electrocyclic Reactions (Ground State)
-+  Photochemical Reactions
-+  Oxy-and Amino-Pyridines
+6.  Reactions with Reducing Agents
+7.  Electrocyclic Reactions (Ground State)
+8.  Photochemical Reactions
+9.  Oxy-and Amino-Pyridines
  +  Structure
  +  Reactions of Pyridones
  +  Reactions of Amino-Pyridines
-+ 0 Alkyl-Pyridines
-+ 1 Pyridine Aldehydes, Ketones, Carboxylic Acids and Esters
-+ 2 Quaternary Pyridinium Salts
+10. Alkyl-Pyridines
+11. Pyridine Aldehydes, Ketones, Carboxylic Acids and Esters
+12. Quaternary Pyridinium Salts
  +  Reduction and Oxidation
  +  Organometallic and Other Nucleophilic Additions
  +  Nucleophilic Addition Followed by Ring Opening
  +  Cyclisations Involving an &#945;-Position or an &#945;-Substituent
  +  N-Dealkylation
-+ 3 Pyridine N-oxides
-+  Electrophilic Addition and Substitution
-+  Nucleophilic Addition and Substitution
-+  Addition of Nucleophiles then Loss of Oxide
-+ 4 Synthesis of Pyridines
+13. Pyridine N-oxides
+ +  Electrophilic Addition and Substitution
+ +  Nucleophilic Addition and Substitution
+ +  Addition of Nucleophiles then Loss of Oxide
+14. Synthesis of Pyridines
  +  Ring Synthesis
  +  Examples of Notable Syntheses of Pyridine Compounds 8. Fusarinic Acid
 
-> 9: Quinolines and Isoquinolines: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> Quinolines and Isoquinolines: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Addition to Nitrogen
  +  Substitution at Carbon
-+  Reactions with Oxidising Agents
-+  Reactions with Nucleophilic Reagents
+2.  Reactions with Oxidising Agents
+3.  Reactions with Nucleophilic Reagents
  +  Nucleophilic Substitution with ‘Hydride’ Transfer
  +  Nucleophilic Substitution with Displacement of Good Leaving Groups
-+  Metallation and Reactions of C-Metallated Quinolines and Isoquinolines
-+  Direct Ring C–H Metallation
-+  Metal–Halogen Exchange
-+  Reactions with Radicals
-+  Reactions with Reducing Agents
-+  Electrocyclic Reactions (Ground State)
-+  Photochemical Reactions
-+  Oxy-Quinolines and Oxy-Isoquinolines
-+ 0 Amino-Quinolines and Amino-Isoquinolines
-+ 1 Alkyl-Quinolines and Alkyl-Isoquinolines
-+ 2 Quinoline and Isoquinoline Carboxylic Acids and Esters
-+ 3 Quaternary Quinolinium and Isoquinolinium Salts
-+ 4 Quinoline and Isoquinoline N-Oxides
-+ 5 Synthesis of Quinolines and Isoquinolines
+4.  Metallation and Reactions of C-Metallated Quinolines and Isoquinolines
+ +  Direct Ring C–H Metallation
+ +  Metal–Halogen Exchange
+5.  Reactions with Radicals
+6.  Reactions with Reducing Agents
+7.  Electrocyclic Reactions (Ground State)
+8.  Photochemical Reactions
+9.  Oxy-Quinolines and Oxy-Isoquinolines
+10. Amino-Quinolines and Amino-Isoquinolines
+11. Alkyl-Quinolines and Alkyl-Isoquinolines
+12. Quinoline and Isoquinoline Carboxylic Acids and Esters
+13. Quaternary Quinolinium and Isoquinolinium Salts
+14. Quinoline and Isoquinoline N-Oxides
+15. Synthesis of Quinolines and Isoquinolines
  +  Ring Syntheses
  +  Examples of Notable Syntheses of Quinoline and Isoquinoline Compounds
 
-> 10: Typical Reactivity of Pyrylium and Benzopyrylium Ions, Pyrones and Benzopyrones
+> Typical Reactivity of Pyrylium and Benzopyrylium Ions, Pyrones and Benzopyrones
 
-> 11: Pyryliums, 2- and 4-Pyrones: Reactions and Synthesis
-+  Reactions of Pyrylium Cations
+> Pyryliums, 2- and 4-Pyrones: Reactions and Synthesis
+1.  Reactions of Pyrylium Cations
  +  Reactions with Electrophilic Reagents
  +  Addition Reactions with Nucleophilic Reagents
  +  Substitution Reactions with Nucleophilic Reagents
@@ -162,30 +166,30 @@
  +  Photochemical Reactions
  +  Reactions with Dipolarophiles; Cycloadditions
  +  Alkyl-Pyryliums
-+  2-Pyrones and 4-Pyrones (2H-Pyran-2-ones and 4H-Pyran-4-ones; &#945;- and &#947;-Pyrones)
+2.  2-Pyrones and 4-Pyrones (2H-Pyran-2-ones and 4H-Pyran-4-ones; &#945;- and &#947;-Pyrones)
  +  Structure of Pyrones
  +  Reactions of Pyrones
-+  Synthesis of Pyryliums
+3.  Synthesis of Pyryliums
  +  From 1,5-Dicarbonyl Compounds
  +  Alkene Acylation
  +  From 1,3-Dicarbonyl Compounds and Ketones
-+  Synthesis of 2-Pyrones
+4.  Synthesis of 2-Pyrones
  +  From 1,3-Keto(aldehydo)-Acids and Carbonyl Compounds
  +  Other Methods
-+  Synthesis of 4-Pyrones
+5.  Synthesis of 4-Pyrones
 
-> 12: Benzopyryliums and Benzopyrones: Reactions and Synthesis
-+  Reactions of Benzopyryliums
+> Benzopyryliums and Benzopyrones: Reactions and Synthesis
+1.  Reactions of Benzopyryliums
  +  Reactions with Electrophilic Reagents
  +  Reactions with Oxidising Agents
  +  Reactions with Nucleophilic Reagents
  +  Reactions with Reducing Agents
  +  Alkyl-Benzopyryliums
-+  Benzopyrones (Chromones, Coumarins and Isocoumarins)
+2.  Benzopyrones (Chromones, Coumarins and Isocoumarins)
  +  Reactions with Electrophilic Reagents
  +  Reactions with Oxidising Agents
  +  Reactions with Nucleophilic Reagents
-+  Synthesis of Benzopyryliums, Chromones, Coumarins and Isocoumarins
+3.  Synthesis of Benzopyryliums, Chromones, Coumarins and Isocoumarins
  +  Ring Synthesis of 1-Benzopyryliums
  +  Ring Synthesis of Coumarins
  +  Ring Synthesis of Chromones
@@ -193,146 +197,146 @@
  +  Ring Synthesis of Isocoumarins
  +  Notable Examples of Benzopyrylium and Benzopyrone Syntheses
 
-> 13: Typical Reactivity of the Diazines: Pyridazine, Pyrimidine and Pyrazine
+> Typical Reactivity of the Diazines: Pyridazine, Pyrimidine and Pyrazine
 
-> 14: The Diazines: Pyridazine, Pyrimidine, and Pyrazine: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> The Diazines: Pyridazine, Pyrimidine, and Pyrazine: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Addition at Nitrogen
  +  Substitution at Carbon
-+  Reactions with Oxidising Agents
-+  Reactions with Nucleophilic Reagents
+2.  Reactions with Oxidising Agents
+3.  Reactions with Nucleophilic Reagents
  +  Nucleophilic Substitution with ‘Hydride’ Transfer
  +  Nucleophilic Substitution with Displacement of Good Leaving Groups
-+  Metallation and Reactions of C-Metallated Diazines
+4.  Metallation and Reactions of C-Metallated Diazines
  +  Direct Ring C–H Metallation
  +  Metal–Halogen Exchange
-+  Reactions with Reducing Agents
-+  Reactions with Radicals
-+  Electrocyclic Reactions
-+  Diazine N-Oxides
-+  Oxy-Diazines
+5.  Reactions with Reducing Agents
+6.  Reactions with Radicals
+7.  Electrocyclic Reactions
+8.  Diazine N-Oxides
+9. Oxy-Diazines
 +  Structure of Oxy-Diazines
 +  Reactions of Oxy-Diazines
-+ 0 Amino-Diazines
-+ 1 Alkyl-Diazines
-+ 2 Quaternary Diazinium Salts
-+ 3 Synthesis of Diazines
- + 1 Pyridazines
- + 1 Pyrimidines
- + 1 Pyrazines
- + 1 Notable Syntheses of Diazines
-+ 4 Pteridines
+10. Amino-Diazines
+11. Alkyl-Diazines
+12. Quaternary Diazinium Salts
+13. Synthesis of Diazines
+ + Pyridazines
+ + Pyrimidines
+ + Pyrazines
+ + Notable Syntheses of Diazines
+14. Pteridines
 
-> 15: Typical Reactivity of Pyrroles, Furans and Thiophenes
+> Typical Reactivity of Pyrroles, Furans and Thiophenes
 
-> 16: Pyrroles: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> Pyrroles: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Substitution at Carbon
-+  Reactions with Oxidising Agents
-+  Reactions with Nucleophilic Reagents
-+  Reactions with Bases
+2.  Reactions with Oxidising Agents
+3.  Reactions with Nucleophilic Reagents
+4.  Reactions with Bases
  +  Deprotonation of N-Hydrogen and Reactions of Pyrryl Anions
  +  Lithium, Sodium, Potassium and Magnesium Derivatives
-+  C-Metallation and Reactions of C-Metallated Pyrroles
+5.  C-Metallation and Reactions of C-Metallated Pyrroles
  +  Direct Ring C–H Metallation
  +  Metal–Halogen Exchange
-+  Reactions with Radicals
-+  Reactions with Reducing Agents
-+  Electrocyclic Reactions (Ground State)
-+  Reactions with Carbenes and Carbenoids
-+ 0 Photochemical Reactions
-+ 1 Pyrryl-C-X Compounds
-+ 2 Pyrrole Aldehydes and Ketones
-+ 3 Pyrrole Carboxylic Acids
-+ 4 Pyrrole Carboxylic Acid Esters
-+ 5 Oxy-and Amino-Pyrroles
- + 1 2-Oxy-Pyrroles
- + 1 3-Oxy-Pyrroles
- + 1 Amino-Pyrroles
-+ 6 Synthesis of Pyrroles
- + 1 Ring Synthesis
- + 1 Some Notable Syntheses of Pyrroles
+6.  Reactions with Radicals
+7. Reactions with Reducing Agents
+8.  Electrocyclic Reactions (Ground State)
+9.  Reactions with Carbenes and Carbenoids
+10. Photochemical Reactions
+11. Pyrryl-C-X Compounds
+12. Pyrrole Aldehydes and Ketones
+13. Pyrrole Carboxylic Acids
+14. Pyrrole Carboxylic Acid Esters
+15. Oxy-and Amino-Pyrroles
+ + 2-Oxy-Pyrroles
+ + 3-Oxy-Pyrroles
+ + Amino-Pyrroles
+15. Synthesis of Pyrroles
+ + Ring Synthesis
+ + Some Notable Syntheses of Pyrroles
 
-> 17: Thiophenes: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> Thiophenes: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Substitution at Carbon
  +  Addition at Sulfur
-+  Reactions with Oxidising Agents
-+  Reactions with Nucleophilic Reagents
-+  Metallation and Reactions of C-Metallated Thiophenes
+2.  Reactions with Oxidising Agents
+3.  Reactions with Nucleophilic Reagents
+4.  Metallation and Reactions of C-Metallated Thiophenes
  +  Direct Ring C–H Metallation
  +  Metal–Halogen Exchange
-+  Reactions with Radicals
-+  Reactions with Reducing Agents
-+  Electrocyclic Reactions (Ground State)
-+  Photochemical Reactions
-+  Thiophene-C–X Compounds: Thenyl Derivatives
-+ 0 Thiophene Aldehydes and Ketones, and Carboxylic Acids and Esters
-+ 1 Oxy-and Amino-Thiophenes
- + 1 Oxy-Thiophenes
- + 1 Amino-Thiophenes
-+ 2 Synthesis of Thiophenes
- + 1 Ring Synthesis
- + 1 Examples of Notable Syntheses of Thiophene Compounds
+5.  Reactions with Radicals
+6.  Reactions with Reducing Agents
+7.  Electrocyclic Reactions (Ground State)
+8.  Photochemical Reactions
+9.  Thiophene-C–X Compounds: Thenyl Derivatives
+10. Thiophene Aldehydes and Ketones, and Carboxylic Acids and Esters
+11. Oxy-and Amino-Thiophenes
+ + Oxy-Thiophenes
+ + Amino-Thiophenes
+12. Synthesis of Thiophenes
+ + Ring Synthesis
+ + Examples of Notable Syntheses of Thiophene Compounds
 
-> 18: Furans: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> Furans: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Substitution at Carbon
-+  Reactions with Oxidising Agents
-+  Reactions with Nucleophilic Reagents
-+  Metallation and Reactions of C-Metallated Furans
-+  Direct Ring C–H Metallation
-+  Metal–Halogen Exchange
-+  Reactions with Radicals
-+  Reactions with Reducing Agents
-+  Electrocyclic Reactions (Ground State)
-+  Reactions with Carbenes and Carbenoids
-+  Photochemical Reactions
-+ 0 Furyl-C–X Compounds; Side-Chain Properties
-+ 1 Furan Carboxylic Acids and Esters and Aldehydes
-+ 2 Oxy-and Amino-Furans
- + 1 Oxy-Furans
- + 1 Amino-Furans
-+ 3 Synthesis of Furans
- + 1 Ring Syntheses
- + 1 Examples of Notable Syntheses of Furans
+2.  Reactions with Oxidising Agents
+3.  Reactions with Nucleophilic Reagents
+4. Metallation and Reactions of C-Metallated Furans
+ +  Direct Ring C–H Metallation
+ +  Metal–Halogen Exchange
+5.  Reactions with Radicals
+6.  Reactions with Reducing Agents
+7.  Electrocyclic Reactions (Ground State)
+8.  Reactions with Carbenes and Carbenoids
+9.  Photochemical Reactions
+10. Furyl-C–X Compounds; Side-Chain Properties
+11. Furan Carboxylic Acids and Esters and Aldehydes
+12. Oxy-and Amino-Furans
+ + Oxy-Furans
+ + Amino-Furans
+13.Synthesis of Furans
+ + Ring Syntheses
+ + Examples of Notable Syntheses of Furans
 
 > 19: Typical Reactivity of Indoles, Benzo[b] thiophenes, Benzo[b]furans, Isoindoles, Benzo[c]thiophenes and Isobenzofurans
 
 > 20: Indoles: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+1.  Reactions with Electrophilic Reagents
  +  Substitution at Carbon
-+  Reactions with Oxidising Agents
-+  Reactions with Nucleophilic Reagents
-+  Reactions with Bases
+2.  Reactions with Oxidising Agents
+3.  Reactions with Nucleophilic Reagents
+4.  Reactions with Bases
  +  Deprotonation of N-Hydrogen and Reactions of Indolyl Anions
-+  C-Metallation and Reactions of C-Metallated Indoles 
+5.  C-Metallation and Reactions of C-Metallated Indoles 
  +  Direct Ring C–H Metallation
  +  Metal–Halogen Exchange
-+  Reactions with Radicals
-+  Reactions with Reducing Agents
-+  Reactions with Carbenes
-+  Electrocyclic and Photochemical Reactions
-+ 0 Alkyl-Indoles
-+ 1 Reactions of Indolyl-C–X Compounds
-+ 2 Indole Carboxylic Acids
-+ 3 Oxy-Indoles
- + 2 Oxindole
- + 2 Indoxyl
- + 2 Isatin
- + 2 1-Hydroxyindole
-+ 4 Amino-Indoles
-+ 5 Aza-Indoles
- + 2 Electrophilic Substitution
- + 2 Nucleophilic Substitution
-+ 6 Synthesis of Indoles
- + 2 Ring Synthesis of Indoles
- + 2 Ring Synthesis of Oxindoles
- + 2 Ring Synthesis of Indoxyls
- + 2 Ring Synthesis of Isatins
- + 2 Synthesis of 1-Hydroxy-Indoles
- + 2 Examples of Notable Indole Syntheses
- + 2 Synthesis of Aza-Indoles
+6.  Reactions with Radicals
+7.  Reactions with Reducing Agents
+8.  Reactions with Carbenes
+9.  Electrocyclic and Photochemical Reactions
+10. Alkyl-Indoles
+11. Reactions of Indolyl-C–X Compounds
+12. Indole Carboxylic Acids
+13. Oxy-Indoles
+ + Oxindole
+ + Indoxyl
+ + Isatin
+ + 1-Hydroxyindole
+14. Amino-Indoles
+15. Aza-Indoles
+ + Electrophilic Substitution
+ + Nucleophilic Substitution
+16. Synthesis of Indoles
+ + Ring Synthesis of Indoles
+ + Ring Synthesis of Oxindoles
+ + Ring Synthesis of Indoxyls
+ + Ring Synthesis of Isatins
+ + Synthesis of 1-Hydroxy-Indoles
+ + Examples of Notable Indole Syntheses
+ + Synthesis of Aza-Indoles
 
 > 21: Benzo[b]thiophenes and Benzo[b]furans: Reactions and Synthesis
 +  Reactions with Electrophilic Reagents
