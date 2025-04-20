@@ -301,9 +301,9 @@
  + Ring Syntheses
  + Examples of Notable Syntheses of Furans
 
-> 19: Typical Reactivity of Indoles, Benzo[b] thiophenes, Benzo[b]furans, Isoindoles, Benzo[c]thiophenes and Isobenzofurans
+> Typical Reactivity of Indoles, Benzo[b] thiophenes, Benzo[b]furans, Isoindoles, Benzo[c]thiophenes and Isobenzofurans
 
-> 20: Indoles: Reactions and Synthesis
+> Indoles: Reactions and Synthesis
 1.  Reactions with Electrophilic Reagents
  +  Substitution at Carbon
 2.  Reactions with Oxidising Agents
@@ -338,147 +338,147 @@
  + Examples of Notable Indole Syntheses
  + Synthesis of Aza-Indoles
 
-> 21: Benzo[b]thiophenes and Benzo[b]furans: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> Benzo[b]thiophenes and Benzo[b]furans: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Substitution at Carbon
  +  Addition to Sulfur in Benzothiophenes
-+  Reactions with Nucleophilic Reagents
-+  Metallation and Reactions of C-Metallated Benzothiophenes and Benzofurans
-+  Reactions with Radicals
-+  Reactions with Oxidising and Reducing Agents
-+  Electrocyclic Reactions
-+  Oxy- and Amino-Benzothiophenes and-Benzofurans
-+  Synthesis of Benzothiophenes and Benzofurans
+2.  Reactions with Nucleophilic Reagents
+3.  Metallation and Reactions of C-Metallated Benzothiophenes and Benzofurans
+4.  Reactions with Radicals
+5.  Reactions with Oxidising and Reducing Agents
+6.  Electrocyclic Reactions
+7.  Oxy- and Amino-Benzothiophenes and-Benzofurans
+8.  Synthesis of Benzothiophenes and Benzofurans
  +  Ring Synthesis
 
-> 22: Isoindoles, Benzo[ c ]thiophenes and Isobenzofurans: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
-+  Electrocyclic Reactions
-+  Phthalocyanines
-+  Synthesis of Isoindoles, Benzo[c]thiophenes and Isobenzofurans
+> Isoindoles, Benzo[ c ]thiophenes and Isobenzofurans: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
+2.  Electrocyclic Reactions
+3.  Phthalocyanines
+4.  Synthesis of Isoindoles, Benzo[c]thiophenes and Isobenzofurans
  +  Isoindoles
  +  Benzo[c]thiophenes
  +  Isobenzofurans
 
-> 23: Typical Reactivity of 1,3- and 1,2-Azoles and Benzo-1,3- and -1,2-Azoles
+> Typical Reactivity of 1,3- and 1,2-Azoles and Benzo-1,3- and -1,2-Azoles
 
-> 24: 1,3-Azoles: Imidazoles, Thiazoles and Oxazoles: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> 1,3-Azoles: Imidazoles, Thiazoles and Oxazoles: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Addition at Nitrogen
  +  Substitution at Carbon
-+  Reactions with Oxidising Agents
-+  Reactions with Nucleophilic Reagents
+2.  Reactions with Oxidising Agents
+3.  Reactions with Nucleophilic Reagents
  +  With Replacement of Hydrogen
  +  With Replacement of Halogen
-+  Reactions with Bases
+4.  Reactions with Bases
  +  Deprotonation of Imidazole N-Hydrogen and Reactions of Imidazolyl Anions
-+  C-Metallation and Reactions of C-Metallated 1,3-Azoles
+5.  C-Metallation and Reactions of C-Metallated 1,3-Azoles
  +  Direct Ring C–H Metallation
  +  Metal–Halogen Exchange
-+  Reactions with Radicals
-+  Reactions with Reducing Agents
-+  Electrocyclic Reactions
-+  Alkyl-1,3-Azoles
-+ 0 Quaternary 1,3-Azolium Salts
-+ 1 Oxy- and Amino-1,3-Azoles
-+ 2 1,3-Azole N-Oxides
-+ 3 Synthesis of 1,3-Azoles
- + 2 Ring Synthesis
- + 2 Examples of Notable Syntheses Involving 1,3-Azoles
+6.  Reactions with Radicals
+7.  Reactions with Reducing Agents
+8.  Electrocyclic Reactions
+9.  Alkyl-1,3-Azoles
+10. Quaternary 1,3-Azolium Salts
+11. Oxy- and Amino-1,3-Azoles
+12. 1,3-Azole N-Oxides
+14. Synthesis of 1,3-Azoles
+ + Ring Synthesis
+ + Examples of Notable Syntheses Involving 1,3-Azoles
 
-> 25: 1,2-Azoles: Pyrazoles, Isothiazoles, Isoxazoles: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> 1,2-Azoles: Pyrazoles, Isothiazoles, Isoxazoles: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Addition at Nitrogen
  +  Substitution at Carbon
-+  Reactions with Oxidising Agents
-+  Reactions with Nucleophilic Reagents
-+  Reactions with Bases
+2.  Reactions with Oxidising Agents
+3. Reactions with Nucleophilic Reagents
+4.  Reactions with Bases
  +  Deprotonation of Pyrazole N-Hydrogen and Reactions of Pyrazolyl Anions
-+  C-Metallation and Reactions of C-Metallated 1,2-Azoles
-+  Direct Ring C–H Metallation
-+  Metal–Halogen Exchange
-+  Reactions with Radicals
-+  Reactions with Reducing Agents
-+  Electrocyclic and Photochemical Reactions
-+  Alkyl-1,2-Azoles
-+ 0 Quaternary 1,2-Azolium Salts
-+ 1 Oxy-and Amino-1,2-azoles
-+ 2 Synthesis of 1,2-Azoles
- + 2 Ring Synthesis
+5.  C-Metallation and Reactions of C-Metallated 1,2-Azoles
+ +  Direct Ring C–H Metallation
+ +  Metal–Halogen Exchange
+6.  Reactions with Radicals
+7.  Reactions with Reducing Agents
+8.  Electrocyclic and Photochemical Reactions
+9.  Alkyl-1,2-Azoles
+10. Quaternary 1,2-Azolium Salts
+11. Oxy-and Amino-1,2-azoles
+12. Synthesis of 1,2-Azoles
+ + Ring Synthesis
 
-> 26: Benzanellated Azoles: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> Benzanellated Azoles: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Addition at Nitrogen
  +  Substitution at Carbon
-+  Reactions with Nucleophilic Reagents
-+  Reactions with Bases
-+  Deprotonation of N-Hydrogen and Reactions of Benzimidazolyl and Indazolyl Anions
-+  Ring Metallation and Reactions of C-Metallated Derivatives
-+  Reactions with Reducing Agents
-+  Electrocyclic Reactions
-+  Quaternary Salts
-+  Oxy-and Amino-Benzo-1,3-Azoles
-+  Synthesis
+2.  Reactions with Nucleophilic Reagents
+3.  Reactions with Bases
+ +  Deprotonation of N-Hydrogen and Reactions of Benzimidazolyl and Indazolyl Anions
+4.  Ring Metallation and Reactions of C-Metallated Derivatives
+5.  Reactions with Reducing Agents
+6.  Electrocyclic Reactions
+7.  Quaternary Salts
+8.  Oxy-and Amino-Benzo-1,3-Azoles
+9  Synthesis
  +  Ring Synthesis of Benzo-1,3-Azoles
  +  Ring Synthesis of Benzo-1,2-Azoles
 
-> 27: Purines: Reactions and Synthesis
-+  Reactions with Electrophilic Reagents
+> Purines: Reactions and Synthesis
+1.  Reactions with Electrophilic Reagents
  +  Addition at Nitrogen
  +  Substitution at Carbon
-+  Reactions with Radicals
-+  Reactions with Oxidising Agents
-+  Reactions with Reducing Agents
-+  Reactions with Nucleophilic Reagents
-+  Reactions with Bases
+2.  Reactions with Radicals
+3.  Reactions with Oxidising Agents
+4.  Reactions with Reducing Agents
+5.  Reactions with Nucleophilic Reagents
+6.  Reactions with Bases
  +  Deprotonation of N-Hydrogen and Reactions of Purinyl Anions
-+  C-Metallation and Reactions of C-Metallated Purines
+7.  C-Metallation and Reactions of C-Metallated Purines
  +  Direct Ring C–H Metallation
  +  Metal–Halogen Exchange
-+  Oxy- and Amino-Purines
+8.  Oxy- and Amino-Purines
  +  Oxy-Purines
  +  Amino-Purines
  +  Thio-Purines
-+  Alkyl-Purines
-+ 0 Purine Carboxylic Acids
-+ 1 Synthesis of Purines
- + 2 Ring Synthesis
- + 2 Examples of Notable Syntheses Involving Purines
+9.  Alkyl-Purines
+10. Purine Carboxylic Acids
+11. Synthesis of Purines
+  + Ring Synthesis
+  + Examples of Notable Syntheses Involving Purines
 
-> 28: Heterocycles Containing a Ring-Junction Nitrogen (Bridgehead Compounds)
-+  Indolizines
+> Heterocycles Containing a Ring-Junction Nitrogen (Bridgehead Compounds)
+1.  Indolizines
  +  Reactions of Indolizines
  +  Ring Synthesis of Indolizines
-+  Aza - Indolizines
+2.  Aza - Indolizines
  +  Imidazo[1,2-a]pyridines
  +  Imidazo[1,5-a ]pyridines
  +  Pyrazolo[1,5-a ]pyridines
  +  Triazolo-and Tetrazolo-Pyridines
  +  Compounds with an Additional Nitrogen in the Six - Membered Ring
-+  Quinolizinium and Related Systems
-+  Pyrrolizine and Related Systems
-+  Cyclazines
+3.  Quinolizinium and Related Systems
+4.  Pyrrolizine and Related Systems
+5.  Cyclazines
 
-> 29: Heterocycles Containing More Than Two Heteroatoms
-+  Five-Membered Rings
+> Heterocycles Containing More Than Two Heteroatoms
+1.  Five-Membered Rings
  +  Azoles
  +  Oxadiazoles and Thiadiazoles
  +  Other Systems
-+  Six-Membered Rings
-+  Azines
-+  Benzotriazoles
+2.  Six-Membered Rings
+3.  Azines
+4.  Benzotriazoles
 
-> 30: Saturated and Partially Unsaturated Heterocyclic Compounds: Reactions and Synthesis
-+  Five - and Six - Membered Rings
+> Saturated and Partially Unsaturated Heterocyclic Compounds: Reactions and Synthesis
+1.  Five - and Six - Membered Rings
  +  Pyrrolidines and Piperidines
  +  Piperideines and Pyrrolines
  +  Pyrans and Reduced Furans
-+  Three-Membered Rings
+2.  Three-Membered Rings
  +  Three-Membered Rings with One Heteroatom
  +  Three-Membered Rings with Two Heteroatoms
-+  Four-Membered Rings
-+  Metallation
-+  Ring Synthesis
+3.  Four-Membered Rings
+4.  Metallation
+5.  Ring Synthesis
  +  Aziridines and Azirines
  +  Azetidines and &#946;-Lactams
  +  Pyrrolidines
@@ -486,20 +486,20 @@
  +  Saturated Oxygen Heterocycles
  +  Saturated Sulfur Heterocycles
 
-> 31: Special Topics
-+  Synthesis of Ring-Fluorinated Heterocycles
+> Special Topics
+1.  Synthesis of Ring-Fluorinated Heterocycles
  +  Electrophilic Fluorination
  +  The Balz–Schiemann Reaction
  +  Halogen Exchange (Halex) Reactions
  +  Ring Synthesis Incorporating Fluorinated Starting Materials
-+  Isotopically Labelled Heterocycles
+3.  Isotopically Labelled Heterocycles
  +  Hazards Due to Radionuclides
  +  Synthesis
  +  PET (Positron Emission Tomography)
-+  Bioprocesses in Heterocyclic Chemistry
-+  Green Chemistry
-+  Ionic Liquids
-+  Applications and Occurrences of Heterocycles
+3.  Bioprocesses in Heterocyclic Chemistry
+4.  Green Chemistry
+5.  Ionic Liquids
+6.  Applications and Occurrences of Heterocycles
  +  Toxicity
  +  Plastics and Polymers
  +  Fungicides and Herbicides
@@ -507,16 +507,16 @@
  +  Fluorescence - Based Applications
  +  Electronic Applications
 
-> 32: Heterocycles in Biochemistry; Heterocyclic Natural Products
-+  Heterocyclic Amino Acids and Related Substances
-+  Enzyme Co-Factors; Heterocyclic Vitamins; Co-Enzymes
+> Heterocycles in Biochemistry; Heterocyclic Natural Products
+1.  Heterocyclic Amino Acids and Related Substances
+2.  Enzyme Co-Factors; Heterocyclic Vitamins; Co-Enzymes
  +  Niacin (Vitamin B3) and Nicotinamide Adenine Dinucleotide Phosphate (NADP+)
  +  Pyridoxine (Vitamin B6) and Pyridoxal Phosphate (PLP)
  +  Riboflavin (Vitamin B2)
  +  Thiamin (Vitamin B1) and Thiamine Pyrophosphate
-+  Porphobilinogen and the ‘Pigments of Life’
-+  Ribonucleic Acid (RNA ) and Deoxyribonucleic Acid (DNA); Genetic Information; Purines and Pyrimidines
-+  Heterocyclic Natural Products
+3.  Porphobilinogen and the ‘Pigments of Life’
+4.  Ribonucleic Acid (RNA ) and Deoxyribonucleic Acid (DNA); Genetic Information; Purines and Pyrimidines
+5.  Heterocyclic Natural Products
  +  Alkaloids
  +  Marine Heterocycles
  +  Halogenated Heterocycles
@@ -524,18 +524,18 @@
  +  Other Nitrogen-Containing Natural Products
  +  Anthocyanins and Flavones
 
-> 33: Heterocycles in Medicine
-+  Mechanisms of Drug Actions
+> Heterocycles in Medicine
+1.  Mechanisms of Drug Actions
  +  Mimicking or Opposing the Effects of Physiological Hormones or Neurotransmitters
  +  Interaction with Enzymes
  +  Physical Binding with, or Chemically Modifying, Natural Macromolecules
-+  The Neurotransmitters
-+  Drug Discovery and Development
+2.  The Neurotransmitters
+3.  Drug Discovery and Development
  +  Stages in the Life of a Drug
  +  Drug Discovery
  +  Chemical Development
  +  Good Manufacturing Practice (GMP)
-+  Heterocyclic Drugs
+4.  Heterocyclic Drugs
  +  Histamine
  +  Acetylcholine (ACh)
  +  5 - Hydroxytryptamine (5-HT)
@@ -544,12 +544,12 @@
  +  Drugs Affecting Blood Clotting
  +  Other Enzyme Inhibitors
  +  Enzyme Induction
-+  Drugs Acting on the CNS
-+  Anti-Infective Agents
+5.  Drugs Acting on the CNS
+6.  Anti-Infective Agents
  +  Anti-Parasitic Drugs
  +  Anti-Bacterial Drugs
  +  Anti-Viral Drugs
-+  Anti-Cancer Drugs
-+  Photochemotherapy
+7.  Anti-Cancer Drugs
+8.  Photochemotherapy
  +  Psoralen plus UVA (PUVA) Treatment
  +  Photodynamic Therapy (PDT)
