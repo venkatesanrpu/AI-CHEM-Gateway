@@ -1,22 +1,22 @@
 > 1: Heterocyclic Nomenclature
 > 2: Structures and Spectroscopic Properties of Aromatic Heterocycles
-+  Carbocyclic Aromatic Systems
- 1.  Structures of Benzene and Naphthalene
- 2.  Aromatic Resonance Energy
-+  Structure of Six-Membered Heteroaromatic Systems
+1.  Carbocyclic Aromatic Systems
+ +.  Structures of Benzene and Naphthalene
+ +.  Aromatic Resonance Energy
+2.  Structure of Six-Membered Heteroaromatic Systems
  +  Structure of Pyridine
  +  Structure of Diazines
  +  Structure of Pyridinium and Related Cations
  +  Structures of Pyridones and Pyrones
-+  Structure of Five-Membered Heteroaromatic Systems
+3.  Structure of Five-Membered Heteroaromatic Systems
  +  Structure of Pyrrole
  +  Structures of Thiophene and Furan
  +  Structures of Azoles
  +  Structures of Pyrryl and Related Anions
-+  Structures of Bicyclic Heteroaromatic Compounds
-+  Tautomerism in Heterocyclic Systems
-+  Mesoionic Systems
-+  Some Spectroscopic Properties of Some Heteroaromatic Systems
+4.  Structures of Bicyclic Heteroaromatic Compounds
+5.  Tautomerism in Heterocyclic Systems
+6.  Mesoionic Systems
+7.  Some Spectroscopic Properties of Some Heteroaromatic Systems
  +  Ultraviolet/Visible (Electronic) Spectroscopy
  +  Nuclear Magnetic Resonance (NMR) Spectroscopy
 
