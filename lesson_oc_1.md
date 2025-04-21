@@ -1,4 +1,4 @@
-[HOME](https://venkatesanrpu.github.io/AI-CHEM-Gateway/)
+[HOME](https://venkatesanrpu.github.io/AI-CHEM-Gateway/organic_chemistry)
 
 ---
 
