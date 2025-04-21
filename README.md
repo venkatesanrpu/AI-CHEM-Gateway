@@ -65,31 +65,11 @@ Visit [AI-CHEM Gateway](https://copilotstudio.microsoft.com/environments/1787393
 
 ---
 
+### Visit the link below to view more about the topic and information
 
-*The following list gives you a starter topic plan. Each lesson below will give a list of sub-topics as keywords for exploration. The keyword associated with these topics are curated by subject domain experts for comprehensive and holistic learning of the subject*
-
-### Organic Chemistry Topics
-
-1. [Organic Stereochemistry and Reaction](lesson1)
-
-2. [Heterocyclic Chemistry](lesson2)
-
----
-
-### Inorganic Chemistry Topics
-
----
-
-### Physical Chemistry Topics
-
----
-
-### Analytical Chemistry Topics
-
----
-
-### Mathematical Techniques
-
----
-
-*Additional lessons will be added soon*
+1. [Analytical Chemistry](analytical_chemistry)
+2. [Inorganic Chemistry](inorganic_chemistry)
+3. [Organic Chemistry](organic_chemistry)
+4. [Physical Chemistry](physical_chemistry)
+5. [Molecular Spectroscopy](molecular_spectroscopy)
+6. [Mathematical Principles](mathematical_principles)
