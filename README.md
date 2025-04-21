@@ -44,7 +44,7 @@ The agent deals with following broad topics
 
 - Customized practice MCQs for each user query
 
-- Comprehensive CSIR Practice questions (will be available by fourth week of June 2025)
+- Comprehensive CSIR Practice questions (will be available by fourth week of May 2025)
 
 - Access to the most relevant YouTube video (type 'youtube:' before your query)
 
