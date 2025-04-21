@@ -1,6 +1,4 @@
-### This topics described below is particularly intended for the students of chemistry who wish to understand underlying mathematical principles in chemical concepts. 
-
-### The topics and keywords listed below is so arranged that students will have a linear learning flow. However, users are free choose the topic as per their requirements.
+### The topics described below is particularly intended for the students of chemistry who wish to understand underlying mathematical principles in chemical concepts. The topics and keywords listed below is so arranged that students will have a linear learning flow.
 
 
 > 1 INFINITE SERIES, POWER SERIES 
