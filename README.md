@@ -14,7 +14,7 @@ The agent deals with following broad topics
 
 #### Inorganic Chemistry
 
--Descriptive Inorganic Chemistry, Coordination Chemistry, Organometallic Chemistry, Inorganic Cages & Clusters, Bioinorganic, Structural Inorganic
+- Descriptive Inorganic Chemistry, Coordination Chemistry, Organometallic Chemistry, Inorganic Cages & Clusters, Bioinorganic, Structural Inorganic
 
 #### Organic Chemistry
 
@@ -33,6 +33,23 @@ The agent deals with following broad topics
 - Preliminaries, Calculus, Algebra, Series, Special Functions, Probability & Statistics
 
 ---
+
+### Features
+
+- Curated and indexed 40+ textbooks as knowledge source
+  
+- Uses Azure-OpenAI LLM
+
+- 15 curated topics to answer user queries in chemistry domain
+
+- Customized practice MCQs for each user query
+
+- Comprehensive CSIR Practice questions (will be available by fourth week of June 2025)
+
+- Access to the most relevant YouTube video (type 'youtube:' before your query)
+
+- Access to the most relevant primary literature to the user query through Google Scholar (presently disabled due to want of finance)
+
 
 ### How to access?
 
