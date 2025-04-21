@@ -1,5 +1,9 @@
 
 
+Contact: Dr. R Venkatesan, Professor, Department of Chemistry, 0413 2654 415, venkatesanr.che@pondiuni.edu.in
+
+---
+
 ## A comprehensive Virtual Tutor for your classroom and examination needs.
 
 The agent deals with following broad topics
@@ -27,6 +31,20 @@ The agent deals with following broad topics
 #### Mathematical Methods
 
 - Preliminaries, Calculus, Algebra, Series, Special Functions, Probability & Statistics
+
+---
+
+### How to access?
+
+You need a valid user account in @pondiuni.edu.in domain of Microsoft Office365. 
+
+
+If you are a new user register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=wZi2uHH050SxxnOsXy1afDXjvDrgEftOmONIHi_rLm9UOE5RTlVRTlhFODk0N1o5MFNZSFpOS0pSTC4u)
+
+New user registration may take up to 24 hours for activation. Check your personal email given during registration for more details.
+
+
+Visit [AI-CHEM Gateway](https://copilotstudio.microsoft.com/environments/1787393d-81d5-e77f-923f-1d3413f920d1/bots/cr2f7_chemistryExamGuidance/webchat?__version__=2)
 
 ---
 
