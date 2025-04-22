@@ -50,6 +50,11 @@ The agent deals with following broad topics
 
 - Access to the most relevant primary literature to the user query through Google Scholar (presently disabled due to want of finance)
 
+---
+
+> **WARNING: For the best performance ask two questions per minute**
+
+---
 
 ### How to access?
 
