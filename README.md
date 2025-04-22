@@ -68,6 +68,16 @@ New user registration may take up to 24 hours for activation. Check your persona
 
 Visit [AI-CHEM Gateway](https://copilotstudio.microsoft.com/environments/1787393d-81d5-e77f-923f-1d3413f920d1/bots/cr2f7_chemistryExamGuidance/webchat?__version__=2)
 
+Use within [Microsoft Teams App](https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?templateInstanceId=0eedf0f5-7106-489c-9e7d-6f5e5a4f46a0&environment=1787393d-81d5-e77f-923f-1d3413f920d1)
+
+---
+
+### How create study notes or backup of my activties?
+
+use Microsoft Teams app of the AI-CHEM Gateway along with Power automate flow to create notes in your custom OneNote app
+
+A demonstration video will be added soon.
+
 ---
 
 ### Visit the link below to view more about the topic and information
