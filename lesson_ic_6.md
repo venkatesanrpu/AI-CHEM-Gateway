@@ -1,6 +1,8 @@
 
 [Inorganic Chemistry](inorganic_chemistry)
 
+### Structural Inorganic Chemistry
+
 *The following topics can serve as a guided tour in your learning.*
 
 #### How to Use this?
