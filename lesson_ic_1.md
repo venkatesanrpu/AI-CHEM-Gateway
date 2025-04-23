@@ -18,7 +18,7 @@
 
 Guided tour
 
-> Basic concepts: atoms
+> 1. Basic concepts: atoms
 
 
  -  Introduction
@@ -68,7 +68,7 @@ Guided tour
     + Electron aﬃnities
 
 
-> Basic concepts: molecules
+> 2. Basic concepts: molecules
 
 
  -  Bonding models: an introduction
@@ -122,7 +122,7 @@ Guided tour
 
 
 
-> Introduction to molecular symmetry
+> 3. Introduction to molecular symmetry
 
 
  -  Introduction
@@ -164,7 +164,7 @@ Guided tour
  -  Chiral molecules
 
 
-> Experimental techniques
+> 4. Experimental techniques
 
 
  -  Introduction
@@ -242,7 +242,7 @@ Guided tour
     + Molecular mechanics (MM)
 
 
-> Bonding in polyatomic molecules
+> 5. Bonding in polyatomic molecules
 
 
  -  Introduction
@@ -285,7 +285,7 @@ Guided tour
     + A more advanced problem: B
 
 
-> Structures and energetics of metallic and ionic solids
+> 6. Structures and energetics of metallic and ionic solids
 
 
  -  Introduction
@@ -372,7 +372,7 @@ Guided tour
 
 
 
-> Acids, bases and ions in aqueous solution
+> 7. Acids, bases and ions in aqueous solution
 
 
  -  Introduction
@@ -434,7 +434,7 @@ Guided tour
 
 
 
-> Reduction and oxidation
+> 8. Reduction and oxidation
 
 
  -  Introduction
@@ -476,7 +476,7 @@ Guided tour
 
 
 
-> Non-aqueous media
+> 9. Non-aqueous media
 
 
  -  Introduction
@@ -533,7 +533,7 @@ Guided tour
     + Supercritical ﬂuids as media for inorganic chemistry
 
 
->  Hydrogen
+>  10. Hydrogen
 
 
  -  Hydrogen: the simplest atom
@@ -572,7 +572,7 @@ Guided tour
     + Covalent hydrides with extended structures
 
 
->  Group 1: the alkali metals
+>  11. Group 1: the alkali metals
 
 
  -  Introduction
@@ -609,7 +609,7 @@ Guided tour
 
 
 
->  The group 2 metals
+>  12. The group 2 metals
 
 
  -  Introduction
@@ -649,7 +649,7 @@ Guided tour
     + Beryllium and aluminium
 
 
->  The group 13 elements
+>  13. The group 13 elements
 
 
  -  Introduction
@@ -700,7 +700,7 @@ Guided tour
 
 
 
->  The group 14 elements
+>  14. The group 14 elements
 
 
  -  Introduction
@@ -760,7 +760,7 @@ Guided tour
 
 
 
->  The group 15 elements
+>  15. The group 15 elements
 
 
  -  Introduction
@@ -835,7 +835,7 @@ Guided tour
 
 
 
->  The group 16 elements
+>  16. The group 16 elements
 
 
  -  Introduction
@@ -895,7 +895,7 @@ Guided tour
  -  Aqueous solution chemistry of sulfur, selenium and tellurium
 
 
->  The group 17 elements
+>  17. The group 17 elements
 
 
  -  Introduction
@@ -937,7 +937,7 @@ Guided tour
  -  Aqueous solution chemistry
 
 
->  The group 18 elements
+>  18. The group 18 elements
 
 
  -  Introduction
@@ -962,7 +962,7 @@ Guided tour
 
 
 
->  d-Block metal chemistry: general considerations
+>  19. d-Block metal chemistry: general considerations
 
 
  -  Topic overview
@@ -1006,7 +1006,7 @@ Guided tour
 
 
 
->  d-Block metal chemistry: the first row metals
+>  20. d-Block metal chemistry: the first row metals
 
 
  -  Introduction
@@ -1083,7 +1083,7 @@ Guided tour
 
 
 
->  d-Block metal chemistry: the heavier metals
+>  21. d-Block metal chemistry: the heavier metals
 
  -  Introduction
 
@@ -1164,7 +1164,7 @@ Guided tour
     + Mercury(I)
 
 
->  The f-block metals: lanthanoids and actinoids
+>  22. The f-block metals: lanthanoids and actinoids
 
 
  -  Introduction
