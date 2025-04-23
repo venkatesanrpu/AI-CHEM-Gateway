@@ -1,5 +1,7 @@
 [Inorganic Chemistry](inorganic_chemistry)
 
+### Descriptive Inorganic Chemistry
+
 *The following topics can serve as a guided tour in your learning.*
 
 #### How to Use this?
