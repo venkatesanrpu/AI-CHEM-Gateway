@@ -4,36 +4,6 @@ Contact: Dr. R Venkatesan, Professor, Department of Chemistry, 0413 2654 415, ve
 
 ---
 
-## A comprehensive Virtual Tutor for your classroom and examination needs.
-
-The agent deals with following broad topics
-
-#### Analytical Chemistry
-
-- Tools, Chemical equilibria, Classical methods, Electrochemical methods, Spectroscopy methods, Separation methods
-
-#### Inorganic Chemistry
-
-- Descriptive Inorganic Chemistry, Coordination Chemistry, Organometallic Chemistry, Inorganic Cages & Clusters, Bioinorganic, Structural Inorganic
-
-#### Organic Chemistry
-
-- Fundamental Organic Chemistry, Stereochemistry, Heterocyclic Chemistry, Reactions & Reactivity, Organic Name Reactions
-
-#### Physical Chemistry
-
-- Chemical Kinetics, Thermodynamics, Quantum Mechanics, Electrochemistry, Solid State Chemistry, Molecular Symmetry & Group Theory
-
-#### Molecular Spectroscopy
-
-- Theoretical Foundations, High Resolution NMR, Electron Spin Resonance, High Energy Spectroscopy Methods
-
-#### Mathematical Methods
-
-- Preliminaries, Calculus, Algebra, Series, Special Functions, Probability & Statistics
-
----
-
 ### Features
 
 - Curated and indexed 40+ textbooks as knowledge source
@@ -46,9 +16,9 @@ The agent deals with following broad topics
 
 - Comprehensive CSIR Practice questions (will be available by fourth week of May 2025)
 
-- Access to the most relevant YouTube video (type 'youtube:' before your query)
+- Access to the most relevant YouTube video and Image (see below for more instruction)
 
-- Access to the most relevant primary literature to the user query through Google Scholar (presently disabled due to want of finance)
+- Access to the most relevant primary literature to the user query through Google Scholar (presently disabled due to Google policy issues)
 
 ---
 
@@ -104,6 +74,37 @@ A demonstration video will be added soon.
   You will see the most relevant youtube video.
 
 ---
+
+## A comprehensive Virtual Tutor for your classroom and examination needs.
+
+The agent deals with following broad topics
+
+#### Analytical Chemistry
+
+- Tools, Chemical equilibria, Classical methods, Electrochemical methods, Spectroscopy methods, Separation methods
+
+#### Inorganic Chemistry
+
+- Descriptive Inorganic Chemistry, Coordination Chemistry, Organometallic Chemistry, Inorganic Cages & Clusters, Bioinorganic, Structural Inorganic
+
+#### Organic Chemistry
+
+- Fundamental Organic Chemistry, Stereochemistry, Heterocyclic Chemistry, Reactions & Reactivity, Organic Name Reactions
+
+#### Physical Chemistry
+
+- Chemical Kinetics, Thermodynamics, Quantum Mechanics, Electrochemistry, Solid State Chemistry, Molecular Symmetry & Group Theory
+
+#### Molecular Spectroscopy
+
+- Theoretical Foundations, High Resolution NMR, Electron Spin Resonance, High Energy Spectroscopy Methods
+
+#### Mathematical Methods
+
+- Preliminaries, Calculus, Algebra, Series, Special Functions, Probability & Statistics
+
+---
+
 
 ### Visit the link below to view more about the topic and information
 
