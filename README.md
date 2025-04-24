@@ -80,6 +80,31 @@ A demonstration video will be added soon.
 
 ---
 
+### How to use?
+
+- Step 1: Visit [AI-CHEM Gateway](https://copilotstudio.microsoft.com/environments/1787393d-81d5-e77f-923f-1d3413f920d1/bots/cr2f7_chemistryExamGuidance/webchat?__version__=2)
+- Step 2: Login with your Office365 @pondiuni.edu.in tenant.
+- Step 3: Copy code shown in the browser in the query box of the AI-CHEM Gateway portal in step 1 above.
+- Step 4: You are now free to interact with the AI-CHEM virtual tutor.
+
+---
+
+### Access Image and YouTube vidoes for your queries
+
+*To View Images for your query*: 
+1. Enter 'Get Images' (without quote) in the query box
+2. Enter your query in the texbox provided
+3. Enter Submit button
+   You will see most relevant images related your querey
+
+*To View relevant YouTube video for your queries*:
+1. Enter 'YouTube' (without quote) in the query box
+2. Enter your query in the texbox provided
+3. Enter Submit button
+  You will see the most relevant youtube video.
+
+---
+
 ### Visit the link below to view more about the topic and information
 
 1. [Analytical Chemistry](analytical_chemistry)
