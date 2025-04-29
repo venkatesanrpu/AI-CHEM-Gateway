@@ -4,6 +4,14 @@ Contact: Dr. R Venkatesan, Professor, Department of Chemistry, 0413 2654 415, ve
 
 ---
 
+# How to effectively use this gateway?
+
+Welcome to your personal chemistry tutor! This chatbot is designed to help you explore the fascinating world of chemistry at your own pace. Whether you're studying for exams, working on projects, or just curious about chemical reactions, this tool is here to support your learning journey. Built with curated knowledge from various textbooks, it covers all sub-domains of chemistry and offers a unique, non-linear learning experience. This means you can dive into topics that interest you, ask questions, and even test your understanding with practice questions. However, because of its non-linear nature, it’s important to use it effectively to stay focused and maximize your learning. Below, you’ll find clear and engaging guidance on how to make the most of this resource.
+
+[Read More](read_more)
+
+---
+
 ### Features
 
 - Curated and indexed 40+ textbooks as knowledge source
