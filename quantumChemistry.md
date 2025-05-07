@@ -1,3 +1,6 @@
+[Physical Chemistry List](physical_chemistry)
+
+---
 >1. Why Was Quantum Mechanics Developed?
 
 
