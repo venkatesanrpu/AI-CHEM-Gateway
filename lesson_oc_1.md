@@ -12,7 +12,7 @@ Users may create study notes for each keyword given below.
 
 
 
-> Acyclic molecules 1: Conformation and symmetry [Sample Prompts](prompts/stereochemistry/c1)
+> Acyclic molecules 1: Conformation and symmetry
 
 - Stereoisomerism in molecules
 
