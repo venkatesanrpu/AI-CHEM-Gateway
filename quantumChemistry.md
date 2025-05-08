@@ -1,6 +1,7 @@
 [Physical Chemistry List](physical_chemistry)
 
 ---
+
 >1. Why Was Quantum Mechanics Developed?
 
 
@@ -291,21 +292,29 @@
  6. Electronic Distribution of Hydrogen Atom
  7. Schrodinger Equation with an External Field
 
-> A Calculation of Numerical Values of h and kB
+---
 
+### **Week 1-3: Fundamentals of Quantum Chemistry**
+- **Concepts:** Introduction to quantum mechanics, wave-particle duality, uncertainty principle, Schrödinger equation.
 
-> B A Derivation of the Factor hν/(ehν/kBT − 1)
+### **Week 4-6: Mathematical Foundations**
+- **Concepts:** Operators, eigenfunctions, eigenvalues, postulates of quantum mechanics.
+- **Skills:** Develop proficiency in differential equations and linear algebra.
+- **Exercises:** Apply operator algebra to quantum systems.
 
+### **Week 7-9: Quantum Models of Atoms & Molecules**
+- **Concepts:** Particle in a box, harmonic oscillator, hydrogen atom solutions, angular momentum.
+- **Analysis:** Compare quantum models with classical ones.
+- **Evaluate:** Understand the limitations of quantum approximations.
 
-> C Bose’s Derivation of Planck’s Law
+### **Week 10-12: Approximation Methods**
+- **Concepts:** Variational method, perturbation theory, Hartree-Fock method.
+- **Analyze:** Derive approximations for complex systems.
+- **Exercises:** Apply variational principles to molecular systems.
 
+### **Week 13-15: Molecular Quantum Chemistry**
+- **Concepts:** Molecular orbitals, Born-Oppenheimer approximation, hybridization theories.
+- **Evaluate:** Critically assess molecular orbital theory vs. valence bond theory.
+- **Create:** Design hypothetical molecular systems with quantum predictions.
 
-> D Distinction Between Self-Adjoint and Hermitian Operators
-
-
-> E Proof of Schwarz’s Inequality
-
-
-> F Calculation of Eigenvalues of a Symmetric Tridiagonal Matrix–QL Method
-
-
+---
