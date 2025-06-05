@@ -4,7 +4,21 @@
 ## The Schrödinger Equation
 
 
-### 1.1 Quantum Chemistry
+
+- [1.1 Quantum Chemistry](#1.1-quantum-chemistry)
+- [1.2 Historical Background of Quantum Mechanics](#1.2-historical-background-of-quantum-mechanics)
+- [1.3 The Uncertainty Principle](#1.3-the-uncertainty-principle)
+- [1.4 The Time-Dependent Schrödinger Equation](#1.4-the-time-dependent-schrödinger-equation)
+- [1.5 The Time-Independent Schrödinger Equation](#1.5-the-time-independent-schrödinger-equation)
+- [1.6 Probability](#1.6-probability)
+- [1.7 Complex Numbers](#1.7-complex-numbers)
+- [1.8 Units](#1.8-units)
+- [1.9 Calculus](#1.9-calculus)
+- [Summary](#summary)
+
+
+
+### 1.1 Quantum Chemistry <a name="1.1-quantum-chemistry"></a>
 
 
 #### Quantum chemistry is a branch of chemistry that applies the principles of quantum mechanics to study the behavior of atoms, molecules, and chemical reactions at the microscopic level. It provides a theoretical framework for understanding:
@@ -61,7 +75,7 @@
 ##### Would you like a deeper dive into any specific aspect?
 
 
-### 1.2 Historical Background of Quantum Mechanics
+### 1.2 Historical Background of Quantum Mechanics <a name="1.2-historical-background-of-quantum-mechanics"></a>
 
 
 #### 1.2 Historical Background of Quantum Mechanics
@@ -155,7 +169,7 @@
 ##### Would you like more details on any specific event or theory?
 
 
-### 1.3 The Uncertainty Principle
+### 1.3 The Uncertainty Principle <a name="1.3-the-uncertainty-principle"></a>
 
 
 #### 1.3 The Uncertainty Principle
@@ -259,7 +273,7 @@
 ##### Would you like a deeper discussion on its mathematical derivation or applications?
 
 
-### 1.4 The Time-Dependent Schrödinger Equation
+### 1.4 The Time-Dependent Schrödinger Equation <a name="1.4-the-time-dependent-schrödinger-equation"></a>
 
 
 #### 1.4 The Time-Dependent Schrödinger Equation (TDSE)
@@ -454,7 +468,7 @@
 ###### Would you like a deeper discussion on numerical methods for solving the TDSE or time-dependent perturbation theory?
 
 
-### 1.5 The Time-Independent Schrödinger Equation
+### 1.5 The Time-Independent Schrödinger Equation <a name="1.5-the-time-independent-schrödinger-equation"></a>
 
 
 #### 1.5 The Time-Independent Schrödinger Equation (TISE)
@@ -659,7 +673,7 @@
 ###### Would you like a deeper dive into perturbation theory or numerical methods for solving the TISE?
 
 
-### 1.6 Probability
+### 1.6 Probability <a name="1.6-probability"></a>
 
 
 #### 1.6 Probability in Quantum Mechanics
@@ -833,7 +847,7 @@
 ###### Would you like a deeper dive into quantum measurement theory or numerical methods for computing probabilities?
 
 
-### 1.7 Complex Numbers
+### 1.7 Complex Numbers <a name="1.7-complex-numbers"></a>
 
 
 #### 1.7 Complex Numbers in Quantum Chemistry
@@ -1037,7 +1051,7 @@
 ###### Would you like a deeper dive into complex algebra in quantum problems or numerical methods for complex wavefunctions?
 
 
-### 1.8 Units
+### 1.8 Units <a name="1.8-units"></a>
 
 
 #### 1.8 Units in Quantum Mechanics
@@ -1254,7 +1268,7 @@
 ###### Would you like examples of unit conversions in quantum problems or a deeper look into natural units in relativistic QM?
 
 
-### 1.9 Calculus
+### 1.9 Calculus <a name="1.9-calculus"></a>
 
 
 #### 1.9 Importance of Calculus in Quantum Mechanics
@@ -1405,7 +1419,7 @@
 ###### Would you like a deeper dive into a specific topic (e.g., solving the hydrogen atom with calculus)?
 
 
-### Summary
+### Summary <a name="summary"></a>
 
 
 #### Summary of the Schrödinger Equation
